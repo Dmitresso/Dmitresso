@@ -1,5 +1,1 @@
-# Repositories
-
-* [Mod The Cube](https://github.com/Dmitresso/Mod-The-Cube)
-* [Basketball](https://github.com/Dmitresso/Basketball)
-* [GameManager](https://github.com/Dmitresso/GameManager)
+[![LeetCode user Dmitresso](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FDmitresso&logo=leetcode&logoColor=yellow)](https://leetcode.com/Dmitresso/)
